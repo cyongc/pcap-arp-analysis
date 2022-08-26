@@ -1,0 +1,16 @@
+Additional information regarding code
+
+hex_to_ip(h): converts hex to ip format
+	h: hex string
+
+arp_info[]: list used to store message information 
+Index	Function
+0 	Hardware type
+1 	Protocol type
+2 	Hardware size
+3 	Protocol size
+4 	Opcode
+5 	Sender MAC address
+6 	Sender IP address
+7 	Target MAC address
+8 	Target IP address
